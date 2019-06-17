@@ -9,7 +9,7 @@
 
 
 
-2. Deploying Spark on **Kubernetes(AWS)**
+2. Deploying Spark on [**Kubernetes(AWS)**](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/40289521/59618864-c2982580-9146-11e9-8cfe-78fad587e952.jpg)
 
@@ -17,7 +17,7 @@
 
 
 
-3.Deploying Spark on **Databricks** 
+3.Deploying Spark on [**Databricks**](https://databricks.com/blog/2018/03/06/apache-spark-2-3-with-native-kubernetes-support.html) 
 
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/40289521/59618868-c461e900-9146-11e9-8598-3bc2c596874b.jpg)
 
