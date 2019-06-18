@@ -19,6 +19,7 @@
 
 3.Deploying Spark on [**Databricks**](https://databricks.com/blog/2018/03/06/apache-spark-2-3-with-native-kubernetes-support.html) 
 
-![Untitled Diagram (2)](https://user-images.githubusercontent.com/40289521/59618868-c461e900-9146-11e9-8598-3bc2c596874b.jpg)
+![databricks](https://user-images.githubusercontent.com/40289521/59654198-d24d5380-91b2-11e9-82ed-3c4c964fa47e.jpg)
+
 
 [Databricks](https://databricks.com/product/aws-pricing) ranges from 0.2$/hr - 0.4$/hr.
