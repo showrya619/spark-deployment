@@ -72,13 +72,14 @@ Windows:
 
 ## DNS Configuration:
 
-Note: If you are using Kops 1.6.2 or later, then DNS configuration is optional. Instead, a gossip-based cluster can be easily created. The only requirement to trigger this is to have the cluster name end with .k8s.local. If a gossip-based cluster is created then you can skip this section.
+Note: If you are using Kops 1.6.2 or later, then DNS configuration is optional. Instead, a gossip-based cluster can be easily created. The only requirement to trigger this is to have the cluster name end with ```.k8s.local```. 
+If a gossip-based cluster is created then you can skip DNS Configuration.
 
 
 ## Create Cluster:
 ```
 kops create cluster \
---name cluster.kubernetes-aws.iot.k8s.local. \ 
+--name cluster.kubernetes-aws.iot.k8s.local \ 
 --zones ap-south-1a \   
 --state s3://kubernetes-aws-iot \
 --yes
