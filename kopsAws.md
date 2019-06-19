@@ -45,7 +45,7 @@ AmazonS3FullAccess
 IAMFullAccess
 AmazonVPCFullAccess
 ```
-Alternatively, a new IAM user may be created and the policies attached as explained [here](github.com/kubernetes/kops/blob/master/docs/aws.md#setup-iam-user)
+Alternatively, a new IAM user may be created and the policies attached as explained [here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)
 
 ## Create an Amazon S3 bucket for the Kubernetes state store
 
