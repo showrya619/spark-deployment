@@ -1,6 +1,6 @@
 # Spark Deployment
 
-1. Deploying Spark using its standalone cluster mode on **[Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)**
+1. Deploying Spark using it's standalone cluster mode on **[Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)**
 
 ![Untitled Diagram (3)](https://user-images.githubusercontent.com/40289521/59620999-e4e07200-914b-11e9-93fe-b13b36c413c1.jpg)
 
