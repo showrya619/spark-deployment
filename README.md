@@ -13,7 +13,7 @@
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/40289521/59618864-c2982580-9146-11e9-8cfe-78fad587e952.jpg)
 
-[Amazon EKS](https://aws.amazon.com/eks/pricing/) ranges $0.20 per hour for each cluster created.
+[Amazon EKS](https://aws.amazon.com/eks/pricing/) ranges $0.20/hr for each cluster created.
 
 
 
